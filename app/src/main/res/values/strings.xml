@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CryptoProfile</string>
+    <string name="app_name">INFS3634 CryptoProfile</string>
+    <string name="welcome_massage">Hello from Crypto Profile App!</string>
 </resources>
